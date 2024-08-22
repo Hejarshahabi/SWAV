@@ -3,6 +3,9 @@
 This repository contains the implementation of a self-supervised learning model (SWAV) and a U-Net model for landslide detection using the Landslide4Sense competition dataset.
 
 
+
+
+    
 ##                              SWAV Model Flowchart
 
 <img src="https://github.com/Hejarshahabi/SWAV/blob/main/swav_model_flowchart1.jpg"  width="80%" height="80%">
