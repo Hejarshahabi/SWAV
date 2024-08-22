@@ -19,8 +19,7 @@ This repository contains the implementation of a self-supervised learning model 
 
 - Python 3.x
 - PyTorch
-- Other dependencies listed in `requirements.txt`
-
+- 
 ### Training
 
 To train the SWAV model, run:
