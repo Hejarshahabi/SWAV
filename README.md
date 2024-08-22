@@ -29,8 +29,5 @@ python main_swav.py
 
 ### Flowchart
 
-![Alt text](images/example.png](https://github.com/Hejarshahabi/SWAV/blob/main/swav-model_part1.png)
-![Alt text](images/example.png](https://github.com/Hejarshahabi/SWAV/blob/main/swav-model_part2.png)
-
 
 
