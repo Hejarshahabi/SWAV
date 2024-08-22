@@ -27,7 +27,8 @@ To train the SWAV model, run:
 ```bash
 python main_swav.py
 ```
-## SWAV Model Flowchart
+
+##                              SWAV Model Flowchart
 
 ![ SWAV Model Flowchart](https://github.com/Hejarshahabi/SWAV/blob/main/swav_model_flowchart1.jpg)
 ![ SWAV Model Flowchart](https://github.com/Hejarshahabi/SWAV/blob/main/swav_model_flowchart2.jpg)
