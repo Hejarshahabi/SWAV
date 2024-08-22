@@ -9,6 +9,8 @@ This repository contains the implementation of a self-supervised learning model 
 ![ SWAV Model Flowchart](https://github.com/Hejarshahabi/SWAV/blob/main/swav_model_flowchart2.jpg)
 
 
+
+
 ## Project Structure
 
 - **main_swav.py**: The main script for running the SWAV model.
