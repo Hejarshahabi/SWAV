@@ -26,6 +26,7 @@ To train the SWAV model, run:
 
 ```bash
 python main_swav.py
+'''bash
 
 ### Flowchart
 
