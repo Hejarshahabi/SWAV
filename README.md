@@ -6,7 +6,7 @@ This repository contains the implementation of a self-supervised learning model 
 ##                              SWAV Model Flowchart
 
 ![ SWAV Model Flowchart](https://github.com/Hejarshahabi/SWAV/blob/main/swav_model_flowchart1.jpg)
-![<img src="image.png" height=" 1800" width="1700"/>](https://github.com/Hejarshahabi/SWAV/blob/main/swav_model_flowchart2.jpg)
+<img src="https://github.com/Hejarshahabi/SWAV/blob/main/swav_model_flowchart1.jpg"  width="60%" height="30%">
 
 
 
